@@ -44,6 +44,7 @@ int main()
 	
 
 
+
 	imshow("bMat", BinaryMat);
 	//imshow("resultMat", OpenMat);
 
